@@ -1,0 +1,5 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+demo,com.actividad.demo.model,Nave,13,19,0,0,6,9,2,5,2,5
+demo,com.actividad.demo.service,NaveService,7,46,0,2,2,12,1,7,1,6
+demo,com.actividad.demo,DemoApplication,5,3,0,0,2,1,1,1,1,1
+demo,com.actividad.demo.controller,NaveController,30,3,0,0,7,1,6,1,6,1

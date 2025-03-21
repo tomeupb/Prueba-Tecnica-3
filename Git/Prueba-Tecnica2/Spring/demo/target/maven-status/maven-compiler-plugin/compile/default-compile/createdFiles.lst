@@ -1,0 +1,5 @@
+com\actividad\demo\DemoApplication.class
+com\actividad\demo\repository\NaveRepository.class
+com\actividad\demo\model\Nave.class
+com\actividad\demo\controller\NaveController.class
+com\actividad\demo\service\NaveService.class
